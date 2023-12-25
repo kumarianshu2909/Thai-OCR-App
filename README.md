@@ -5,6 +5,15 @@
 **Video tutorial for Thai App OCR setup and integration with Google Vision**
 - Click to watch video [https://drive.google.com/file/d/161UT5AHgnmm2GQtpTDUhMltyWLSYBU3n/view?usp=sharing]
 
+- Curl for OCR integrated with Google Vision
+  ```
+  curl --location 'https://identitycardocr.de.r.appspot.com/api/upload' \
+  --header 'Content-Type: application/json' \
+  --data '{
+  "url": "https://pbs.twimg.com/media/FkcR718VEAAMEtL.jpg:large"
+  }'
+  ```
+
 To integrate the Google Cloud Vision API with this project, follow these steps:
 
 **Step 1: Enable the Google Cloud Vision API**
