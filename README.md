@@ -3,7 +3,7 @@
 ## Project Setup
 
 **Video tutorial for Thai App OCR setup and integration with Google Vision**
-- Click to watch video [https://drive.google.com/drive/folders/1PrvTrbgaewQ3TEB606o5rLZf2K1URDv1?usp=sharing]
+- Click to watch video [https://drive.google.com/file/d/161UT5AHgnmm2GQtpTDUhMltyWLSYBU3n/view?usp=sharing]
 
 To integrate the Google Cloud Vision API with this project, follow these steps:
 
